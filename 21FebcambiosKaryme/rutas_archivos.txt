@@ -1,0 +1,4 @@
+resources/sass/7-components/_buttons.scss
+resources/sass/7-components/_dashboard-panel.scss
+resources/views/auth/email.blade.php
+routes/web.php
